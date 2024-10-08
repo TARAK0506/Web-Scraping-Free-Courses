@@ -1,0 +1,7 @@
+bs4
+requests
+numpy
+pandas
+sentence-transformers
+scikit-learn
+matplotlib
